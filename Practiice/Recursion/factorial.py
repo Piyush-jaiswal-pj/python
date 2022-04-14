@@ -4,7 +4,8 @@ def fact(num):
 
  else:
    return num*fact(num-1);
-
-x=fact(5);
+ 
+read=int(input("enter fac"));
+x=fact(read);
 
 print(x)

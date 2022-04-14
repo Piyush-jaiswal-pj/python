@@ -24,3 +24,4 @@ print('a' in a)
 # check Not in which is not present in the string
 txt = "The best things in life are free!"
 print("expensive" not in txt)
+# the * operator can be used to repeat the string for a given number of times.
